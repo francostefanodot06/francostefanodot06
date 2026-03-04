@@ -5,7 +5,7 @@ Estoy en mi primer año de la Tecnicatura Universitaria en Programación en la U
 Estoy muy emocionado por seguir estudiando sobre el mundo de la tecnologia y poder trabajar de esto, ya que es lo que verdaderamente me fascina
 
 - 🔭 Actualmente estoy estudiando:
-	- Desarrollo en C# y .NET 
+	- Desarrollo en Java y SQL
 	- Docker y Kubernetes 
 - :bulb: Estoy interesado en la seguridad y el desarrollo
 - ## Mis habilidades y conocimientos incluyen:
