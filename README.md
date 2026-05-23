@@ -6,8 +6,10 @@ Estoy muy emocionado por seguir estudiando sobre el mundo de la tecnologia y pod
 
 - 🔭 Actualmente estoy estudiando:
 	- Desarrollo en Java y SQL
-	- Docker y Kubernetes 
+	- Fundamentos de Docker y despliegue de servicios locales
 - :bulb: Estoy interesado en la seguridad y el desarrollo
+- 🏠 Proyectos actuales:
+Armando mi Homelab personal para experimentar con redes, servidores y self-hosting.
 - ## Mis habilidades y conocimientos incluyen:
 
 <h4> Lenguajes </h4>
