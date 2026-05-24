@@ -41,6 +41,7 @@ Armando mi Homelab personal para experimentar con redes, servidores y self-hosti
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
   <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white">
 </span> 
+
 ## 🎓 Formación
 
 - Tecnicatura Universitaria en Programación (UTN)  
