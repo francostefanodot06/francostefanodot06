@@ -46,7 +46,17 @@ Armando mi Homelab personal para experimentar con redes, servidores y self-hosti
 
 - Tecnicatura Universitaria en Programación (UTN)  
   📍 En curso — 1er año  
-  📚 Programación, bases de datos, POO, desarrollo de software
+  📚 Formación orientada al desarrollo de software y pensamiento lógico aplicado
+
+  🔹 Áreas de estudio:
+  - Programación orientada a objetos (Java)
+  - Algoritmos y estructuras de datos
+  - Bases de datos relacionales (SQL)
+  - Lógica de programación y resolución de problemas
+  - Manejo de archivos y persistencia de datos
+  - Control de versiones con Git/GitHub
+
+  🎯 Enfoque actual: desarrollo backend y fundamentos de sistemas
 
 ### 📘 Cursos complementarios
 Escuela de Artes y Oficios de Esteban Echeverría  
