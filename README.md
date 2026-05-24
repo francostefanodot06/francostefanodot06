@@ -2,7 +2,7 @@
 ### Soy Franco Ghiossi
 
 Estoy en mi primer año de la Tecnicatura Universitaria en Programación en la UTN y estoy con el enfoque en desarrollo backend, ciberseguridad, homelabs, self-hosting, redes y administracion de sistemas.
-Estoy muy emocionado por seguir estudiando sobre el mundo de la tecnologia y poder trabajar de esto, ya que es lo que verdaderamente me fascina
+Estoy muy emocionado por seguir estudiando sobre el mundo de la tecnologia y poder trabajar de esto, ya que es lo que verdaderamente me fascina.
 
 - 🔭 Actualmente estoy estudiando:
 	- Desarrollo en Java y SQL
