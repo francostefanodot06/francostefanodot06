@@ -41,6 +41,23 @@ Armando mi Homelab personal para experimentar con redes, servidores y self-hosti
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
   <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white">
 </span> 
+## 🎓 Formación
+
+- Tecnicatura Universitaria en Programación (UTN)  
+  📍 En curso — 1er año  
+  📚 Programación, bases de datos, POO, desarrollo de software
+
+### 📘 Cursos complementarios
+Escuela de Artes y Oficios de Esteban Echeverría  
+- Python básico (introducción a programación)  
+- HTML y CSS (fundamentos de desarrollo web)  
+- Armado y reparación de PC (hardware y mantenimiento)
+
+### 🧠 Aprendizaje autodidacta
+- Linux (uso diario y administración básica de sistemas)  
+- Docker y despliegue de servicios locales  
+- Redes y fundamentos de ciberseguridad  
+- Homelab y self-hosting (experimentos con servicios y servidores)
 
 <!--
 **francostefanodot06/francostefanodot06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
