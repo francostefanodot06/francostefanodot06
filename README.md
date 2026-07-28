@@ -45,7 +45,7 @@ Armando mi Homelab personal para experimentar con redes, servidores y self-hosti
 ## 🎓 Formación
 
 - Tecnicatura Universitaria en Programación (UTN)  
-  📍 En curso — 1er año  
+  📍 En curso — 2do año  
   📚 Formación orientada al desarrollo de software y pensamiento lógico aplicado
 
   🔹 Áreas de estudio:
