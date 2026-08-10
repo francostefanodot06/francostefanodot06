@@ -5,13 +5,27 @@ Estoy en el segundo año de la Tecnicatura Universitaria en Programación en la 
 Estoy muy emocionado por seguir estudiando sobre el mundo de la tecnologia y poder trabajar de esto, ya que es lo que verdaderamente me fascina.
 
 - 🔭 Actualmente estoy estudiando:
-	- Desarrollo en Java y SQL
-	- Fundamentos de Docker y despliegue de servicios locales
-- :bulb: Estoy interesado en la seguridad y el desarrollo
-- 🏠 Proyectos actuales:
-Armando mi Homelab personal para experimentar con redes, servidores y self-hosting.
-- ## Mis habilidades y conocimientos incluyen:
+  - ☕ Desarrollo backend con Java
+  - 🌐 Desarrollo web con HTML, CSS, JavaScript y TypeScript
+  - 🚀 Spring Boot y desarrollo de APIs REST
+  - 🗄️ Bases de datos relacionales y NoSQL
+  - 🍃 MongoDB
+  - 🐧 Linux y administración de sistemas
+  - 🐳 Docker y despliegue de servicios
 
+- 💡 Estoy interesado en:
+  - Infraestructura y administración de sistemas
+  - Backend
+  - DevOps / DevSecOps / SRE
+  - Redes y ciberseguridad
+  - Self-hosting
+  - Inteligencia artificial local
+- 🏠 Proyecto principal:
+  - Armando y administrando mi **Homelab personal** para experimentar con virtualización, redes, servidores, Docker, self-hosting e IA local.
+- 🤖 Proyecto personal:
+  - Desarrollando **Puck**, mi asistente de inteligencia artificial local utilizando modelos ejecutados en mi propia infraestructura.
+    
+- ## Mis habilidades y conocimientos incluyen:
 <h4> Lenguajes </h4>
 <span> 
      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -70,7 +84,20 @@ Escuela de Artes y Oficios de Esteban Echeverría
 - Homelab y self-hosting (experimentos con servicios y servidores)
 
 ---
+# 🧠 Aprendizaje autodidacta
 
+Además de la formación académica, aprendo mediante proyectos propios y experimentación práctica.
+
+- 🐧 Linux y administración de sistemas
+- 🐳 Docker y Docker Compose
+- 🖥️ Proxmox y virtualización
+- 🌐 Redes y acceso remoto
+- 🔐 Fundamentos de ciberseguridad
+- 🏠 Homelab y self-hosting
+- 🤖 IA local y modelos de lenguaje
+- ⚙️ Despliegue y administración de servicios
+- 📚 Documentación y troubleshooting
+  
 # 🎯 Enfoque profesional
 
 Actualmente estoy construyendo un perfil que combine:
@@ -87,5 +114,4 @@ con interés en áreas como:
 - Infraestructura
 - Ciberseguridad
 
----
 
