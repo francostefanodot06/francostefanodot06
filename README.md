@@ -3,28 +3,20 @@
 
 Estoy en el segundo año de la Tecnicatura Universitaria en Programación en la UTN y estoy con el enfoque en desarrollo backend, ciberseguridad, homelabs, self-hosting, redes y administracion de sistemas.
 Estoy muy emocionado por seguir estudiando sobre el mundo de la tecnologia y poder trabajar de esto, ya que es lo que verdaderamente me fascina.
+Mi enfoque está principalmente en:
 
-- 🔭 Actualmente estoy estudiando:
-  - ☕ Desarrollo backend con Java
-  - 🌐 Desarrollo web con HTML, CSS, JavaScript y TypeScript
-  - 🚀 Spring Boot y desarrollo de APIs REST
-  - 🗄️ Bases de datos relacionales y NoSQL
-  - 🍃 MongoDB
-  - 🐧 Linux y administración de sistemas
-  - 🐳 Docker y despliegue de servicios
+🐧 Linux y administración de sistemas
+🐳 Docker y containerización
+🖥️ Virtualización con Proxmox
+🌐 Redes e infraestructura
+⚙️ Backend con Java
+🔐 DevOps / DevSecOps / SRE
+🏠 Homelab y self-hosting
+🤖 Inteligencia artificial local
 
-- 💡 Estoy interesado en:
-  - Infraestructura y administración de sistemas
-  - Backend
-  - DevOps / DevSecOps / SRE
-  - Redes y ciberseguridad
-  - Self-hosting
-  - Inteligencia artificial local
 - 🏠 Proyecto principal:
-  - Armando y administrando mi **Homelab personal** para experimentar con virtualización, redes, servidores, Docker, self-hosting e IA local.
-- 🤖 Proyecto personal:
-  - Desarrollando **Puck**, mi asistente de inteligencia artificial local utilizando modelos ejecutados en mi propia infraestructura.
-    
+  Construyo y administro mi propio homelab, donde experimento con virtualización, servidores, redes, Docker, servicios self-hosted y modelos de IA locales.
+  
 - ## Mis habilidades y conocimientos incluyen:
 <h4> Lenguajes </h4>
 <span> 
@@ -69,35 +61,12 @@ Estoy muy emocionado por seguir estudiando sobre el mundo de la tecnologia y pod
   - Manejo de archivos y persistencia de datos
   - Control de versiones con Git/GitHub
 
-  🎯 Enfoque actual: desarrollo backend y fundamentos de sistemas
-
-### 📘 Cursos complementarios
-Escuela de Artes y Oficios de Esteban Echeverría  
-- Python básico (introducción a programación)  
-- HTML y CSS (fundamentos de desarrollo web)  
-- Armado y reparación de PC (hardware y mantenimiento)
-
 ### 🧠 Aprendizaje autodidacta
 - Linux (uso diario y administración básica de sistemas)  
 - Docker y despliegue de servicios locales  
 - Redes y fundamentos de ciberseguridad  
 - Homelab y self-hosting (experimentos con servicios y servidores)
 
----
-# 🧠 Aprendizaje autodidacta
-
-Además de la formación académica, aprendo mediante proyectos propios y experimentación práctica.
-
-- 🐧 Linux y administración de sistemas
-- 🐳 Docker y Docker Compose
-- 🖥️ Proxmox y virtualización
-- 🌐 Redes y acceso remoto
-- 🔐 Fundamentos de ciberseguridad
-- 🏠 Homelab y self-hosting
-- 🤖 IA local y modelos de lenguaje
-- ⚙️ Despliegue y administración de servicios
-- 📚 Documentación y troubleshooting
-  
 # 🎯 Enfoque profesional
 
 Actualmente estoy construyendo un perfil que combine:
