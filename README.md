@@ -61,12 +61,6 @@ Mi enfoque está principalmente en:
   - Manejo de archivos y persistencia de datos
   - Control de versiones con Git/GitHub
 
-### 🧠 Aprendizaje autodidacta
-- Linux (uso diario y administración básica de sistemas)  
-- Docker y despliegue de servicios locales  
-- Redes y fundamentos de ciberseguridad  
-- Homelab y self-hosting (experimentos con servicios y servidores)
-
 # 🎯 Enfoque profesional
 
 Actualmente estoy construyendo un perfil que combine:
